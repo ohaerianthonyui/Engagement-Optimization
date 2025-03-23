@@ -7,24 +7,6 @@
 How can our gym boost sign-ups by effectively targeting and engaging specific gender demographics, leveraging current membership distribution and workout preferences?
 
 
-#### Objectives
-
-### 1. **How does workout frequency correlate with the number of calories burned and session duration?**
-
-### 2. **What is the relationship between workout type and calories burned or Fat Percentage reduction?**
-
-### 3. **How does gender influence average session duration, calories burned, and Fat Percentage?**
-
-### 4. **Is there a significant correlation between BMI and Fat Percentage, and how does this vary by workout frequency?**
-
-### 5. **How does resting BPM vary across age groups, and what does it tell us about fitness levels?**
-
-### 6. **How does water intake impact workout performance (session duration, calories burned, or Max_BPM)?**
-
-### 7. **What is the impact of experience level on workout frequency, session duration, and Fat Percentage?**
-
-### 8. **Are higher Max_BPM and Avg_BPM associated with better workout results (e.g., more calories burned or lower Fat Percentage)?**
-
 ### Introduction:
 
 In order to increase gym sign-ups and improve overall member engagement, it’s essential to identify and understand the factors influencing workout preferences, gender-based trends, and overall membership distribution. By leveraging insights from current membership data and aligning gym offerings with specific demographic needs, we can optimize marketing strategies, personalize workout programs, and ensure a more inclusive and engaging environment for both male and female members. This approach will help boost sign-ups and retain existing members by addressing their unique fitness goals and preferences.
